@@ -1,0 +1,8 @@
+spring:
+  sleuth:
+    enabled: true # disabled in dev/test
+
+## Enable one
+#scenario: "conditional-on-bean"
+#scenario: "optional-bean"
+scenario: "unconditional-bean"
